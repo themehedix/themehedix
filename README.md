@@ -48,18 +48,38 @@ Concepts: Scalable Architecture, RAG, Clean Code Principles
 
 ### Movie Portal Platform
 
-Full-stack movie application featuring RAG-based smart search and AI-powered content understanding.
+Full-stack movie application featuring RAG-based smart search and AI-powered content understanding with ai support chatboc and search suggession.
 
 * Live: https://movie-portal-client-ruddy.vercel.app
 * Backend: https://assigment-5-backend-p-hero-l2.onrender.com
 * Frontend Repo: https://github.com/TwistMehedi/assigment-5-frontend-p-hero-l2
 * Backend Repo: https://github.com/TwistMehedi/assigment-5-backend-p-hero-l2
 
----
+### Tech Stack
+Frontend: Next.js | Tailwind CSS | Redux Toolkit
+
+Backend: Node.js + Express | REST API | JWT Authentication | Better Auth   
+
+ORM: Prisma  
+
+Payment: Stripe
+
+Database: PostgreSQL(NeonDb)
+
+AI Integration: (Gemini Ai RAG system)
 
 ### E-commerce App
 
 Scalable e-commerce system with authentication, admin dashboard, and Stripe integration.
+
+### Tech Stack
+Frontend: Next.js | Tailwind CSS | Fetch Api
+
+Backend: Node.js + Express | REST API | Better Auth   
+
+ORM: Prisma
+
+Database: PostgreSQL(NeonDb)
 
 * Live: https://client-sandy-kappa.vercel.app
 * Backend: https://backend-theta-peach-32.vercel.app
