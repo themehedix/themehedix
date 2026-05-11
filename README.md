@@ -1,14 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Mehedi Hasan
+### Full-Stack Developer
 
 Hi, I'm Mehedi Hasan — a Full-Stack Developer focused on building scalable SaaS and production-ready web applications.
 
----
+## 🧠 Professional Summary
 
-## About Me
-
-I specialize in building production-ready full-stack applications using modern web technologies like Next.js, Node.js, Prisma, and Docker. I focus on scalable architecture, clean code, and solving real-world problems with efficient backend and frontend systems.
-
----
+I am a Full-Stack Developer focused on building production-ready web applications with scalable architecture and clean code practices.
+I enjoy solving real-world problems and building efficient backend and frontend systems using modern technologies.
 
 ## 🛠 Tech Stack
 
