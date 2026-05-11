@@ -22,6 +22,8 @@ ORM: Prisma, Mongoose
 
 Tools: Docker, Git, GitHub Actions, Postman
 
+Payment: Stripe | SSLCommerz
+
 Cloud / Deployment: Vercel, Render
 
 API Design: REST API, WebSockets (Socket.IO)
