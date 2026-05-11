@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 👋
 
 Hi, I'm Mehedi Hasan — a Full-Stack Developer focused on building scalable SaaS and production-ready web applications.
 
@@ -10,35 +10,35 @@ I specialize in building production-ready full-stack applications using modern w
 
 ---
 
-##  Tech Stack
-**Frontend:** React, Next.js, Tailwind CSS, TypeScript, Redux Toolkit, React Query, TenStack Query
+## 🛠 Tech Stack
 
-**Backend:** Node.js, Express.js
+Frontend: React, Next.js, Tailwind CSS, TypeScript, Redux Toolkit, React Query
 
-**Database:** MongoDB, PostgreSQL (Prisma), Redis
+Backend: Node.js, Express.js
 
-**Authentication:** JWT, OAuth
+Database: MongoDB, PostgreSQL (Prisma), Redis
 
-**ORM:** Prisma, Mongoose
+Authentication: JWT, OAuth
 
-**Tools:** Docker, Git, GitHub Actions, Postman
+ORM: Prisma, Mongoose
 
-**Cloud / Deployment:** Vercel, Render
+Tools: Docker, Git, GitHub Actions, Postman
 
-**API Design:** REST API, WebSockets (Socket.IO)
+Cloud / Deployment: Vercel, Render
 
-**File Storage:** Cloudinary, ImageKit
+API Design: REST API, WebSockets (Socket.IO)
 
-**CI/CD:** GitHub Actions, Auto Deployment
+File Storage: Cloudinary, ImageKit
+
+CI/CD: GitHub Actions
 
 Security: bcrypt, input validation, rate limiting
 
-**Concepts:** Scalable Architecture, RAG, Clean Code Principles
-
+Concepts: Scalable Architecture, RAG, Clean Code Principles
 
 ---
 
-## Contact & Links
+## 📫 Contact & Links
 
 * GitHub: https://github.com/MehediHasan-FullStack-Developer
 * LinkedIn: https://www.linkedin.com/in/twist-mehedi-243a72231
@@ -46,8 +46,24 @@ Security: bcrypt, input validation, rate limiting
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-* **Movie Portal Platform** — A full-stack movie application featuring RAG-based implementation for smart search, content understanding, and enhanced user experience with ai chatbox
-* **E-commerce App** — Scalable system with Stripe integration, authentication, and admin dashboard
+### Movie Portal Platform
 
+Full-stack movie application featuring RAG-based smart search and AI-powered content understanding.
+
+* Live: https://movie-portal-client-ruddy.vercel.app
+* Backend: https://assigment-5-backend-p-hero-l2.onrender.com
+* Frontend Repo: https://github.com/TwistMehedi/assigment-5-frontend-p-hero-l2
+* Backend Repo: https://github.com/TwistMehedi/assigment-5-backend-p-hero-l2
+
+---
+
+### E-commerce App
+
+Scalable e-commerce system with authentication, admin dashboard, and Stripe integration.
+
+* Live: https://client-sandy-kappa.vercel.app
+* Backend: https://backend-theta-peach-32.vercel.app
+* Frontend Repo: https://github.com/TwistMehedi/asiggment-4-frontend
+* Backend Repo: https://github.com/TwistMehedi/foodHub-backend
