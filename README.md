@@ -1,13 +1,12 @@
-## 👋 Hi, I'm Mehedi Hasan
-### Full-Stack Developer
-
-Hi, I'm Mehedi Hasan — a Full-Stack Developer focused on building scalable SaaS and production-ready web applications.
+<img width="1640" height="656" alt="Gemini_Generated_Image_nsom40nsom40nsom" src="https://github.com/user-attachments/assets/21f2d806-fe23-4a75-877e-66e0bb6b1a14" />
 
 ## 🧠 Professional Summary
 
-I am a Full-Stack Developer focused on building production-ready web applications with scalable architecture and clean code practices.
-I enjoy solving real-world problems and building efficient backend and frontend systems using modern technologies.
+Full-Stack Developer specialized in building scalable and high-performance web applications.
 
+I focus on designing clean backend architectures, developing RESTful APIs, and building responsive, user-friendly frontend interfaces.
+
+I enjoy solving real-world problems through efficient system design and modern development practices.
 ## 🛠 Tech Stack
 
 #### 🌐 Languages
@@ -88,7 +87,7 @@ I enjoy solving real-world problems and building efficient backend and frontend 
 
 ### Movie Portal Platform
 
-Full-stack movie application featuring RAG-based smart search and AI-powered content understanding with ai support chatboc and search suggession.
+Full-stack movie application featuring RAG-based smart search and AI-powered content understanding with ai support chatbot and search suggestion.
 
 * Live: https://movie-portal-client-ruddy.vercel.app
 * Backend: https://assigment-5-backend-p-hero-l2.onrender.com
@@ -106,14 +105,14 @@ Payment: Stripe
 
 Database: PostgreSQL(NeonDb)
 
-AI Integration: (Gemini Ai RAG system)
+AI Integration: Gemini AI (RAG system)
 
 ### E-commerce App
 
 Scalable e-commerce system with authentication, admin dashboard, and Stripe integration.
 
 ### Tech Stack
-Frontend: Next.js | Tailwind CSS | Fetch Api
+Frontend: Next.js | Tailwind CSS | Fetch API
 
 Backend: Node.js + Express | REST API | Better Auth   
 
