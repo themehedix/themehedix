@@ -49,7 +49,6 @@ I enjoy solving real-world problems through efficient system design and modern d
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Firestore](https://img.shields.io/badge/cloud_firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -59,11 +58,7 @@ I enjoy solving real-world problems through efficient system design and modern d
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-990000?style=for-the-badge)
 
-#### 🤖 AI & Generative AI
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blueviolet?style=for-the-badge)
-
-#### ☁️ Cloud & DevOps
+#### ☁️ Cloud &  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
