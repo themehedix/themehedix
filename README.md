@@ -2,11 +2,13 @@
 
 ## 🧠 Professional Summary
 
-Full-Stack Developer specialized in building scalable and high-performance web applications.
+Full-Stack Developer specialized in building modern and high-performance web applications.
 
-I focus on designing clean backend architectures, developing RESTful APIs, and building responsive, user-friendly frontend interfaces.
+I focus on developing robust backend systems, building RESTful APIs, and creating responsive, user-friendly frontend experiences.
+Passionate about writing clean, maintainable code and delivering reliable software solutions that solve real-world problems.
 
-I enjoy solving real-world problems through efficient system design and modern development practices.
+Continuously learning new technologies, best practices, and modern development tools to improve application performance and user experience.
+
 ## 🛠 Tech Stack
 
 #### 🌐 Languages
@@ -19,7 +21,6 @@ I enjoy solving real-world problems through efficient system design and modern d
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433920?style=for-the-badge&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -62,10 +63,7 @@ I enjoy solving real-world problems through efficient system design and modern d
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 📫 Contact & Links
